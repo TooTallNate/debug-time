@@ -1,0 +1,36 @@
+{
+  "name": "debug-time",
+  "version": "1.0.0",
+  "description": "Performance measuring `%t` formatter for debug(), like `console.time()`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/debug-time.git"
+  },
+  "keywords": [
+    "debug",
+    "t",
+    "formatter",
+    "time",
+    "console",
+    "timeEnd",
+    "end",
+    "performance",
+    "hrtime",
+    "measure",
+    "tj",
+    "visionmedia"
+  ],
+  "author": "Nathan Rajlich <n@n8.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/debug-time/issues"
+  },
+  "homepage": "https://github.com/TooTallNate/debug-time#readme",
+  "dependencies": {
+    "@zkochan/logger": "^0.1.0"
+  }
+}
