@@ -30,7 +30,7 @@
     "url": "https://github.com/TooTallNate/debug-time/issues"
   },
   "homepage": "https://github.com/TooTallNate/debug-time#readme",
-  "dependencies": {
-    "@zkochan/logger": "^0.1.0"
+  "peerDependencies": {
+    "debug": "2"
   }
 }
