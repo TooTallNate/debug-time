@@ -1,3 +1,8 @@
+1.0.1 / 2017-01-20
+==================
+
+* [[`ab0ecf4a56`](https://github.com/TooTallNate/debug-time/commit/ab0ecf4a56)] - add support for old Node versions (Nathan Rajlich)
+
 1.0.0 / 2016-11-15
 ==================
 

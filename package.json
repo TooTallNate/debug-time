@@ -1,6 +1,6 @@
 {
   "name": "debug-time",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Performance measuring `%t` formatter for debug(), like `console.time()`",
   "main": "index.js",
   "scripts": {
