@@ -14,7 +14,7 @@
  */
 const DEBUG = require('debug')
 
-DEBUG.formatters.t = (v) => {
+DEBUG.formatters.t = function t (v) {
   const diff = process.hrtime(v)
   return Math.round((diff[0] * 1e9 + diff[1]) * 1e-6)
 }
