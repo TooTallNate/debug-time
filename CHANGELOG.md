@@ -1,3 +1,8 @@
+1.0.2 / 2017-11-08
+==================
+
+* [[`c75c1a170c`](https://github.com/TooTallNate/debug-time/commit/c75c1a170c)] - allow debug v3 (Nathan Rajlich)
+
 1.0.1 / 2017-01-20
 ==================
 
