@@ -31,6 +31,6 @@
   },
   "homepage": "https://github.com/TooTallNate/debug-time#readme",
   "peerDependencies": {
-    "debug": "2"
+    "debug": "2 || 3"
   }
 }
